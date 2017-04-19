@@ -17,3 +17,8 @@ nb-configuration.xml
 /RedSocialG01/nbproject/private/
 /RedSocialG01/RedSocialG01-war/nbproject/private/
 /RedSocialG01/RedSocialG01-ejb/nbproject/private/
+
+# Properties #
+project.properties
+*.properties
+project.properties
